@@ -1,9 +1,10 @@
 {
-  "name": "three.js",
-  "version": "0.73.0",
+  "name": "three-dev",
+  "version": "0.74.0-beta6",
   "description": "JavaScript 3D library",
   "main": "build/three.js",
   "directories": {
+    "core": "src/core",
     "doc": "docs",
     "example": "examples",
     "test": "test"
